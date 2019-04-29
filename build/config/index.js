@@ -2,7 +2,7 @@
 // Template version: 1.3.1
 // see http://vuejs-templates.github.io/webpack for documentation.
 
-const config = require('./dev.env');
+const config = require('./env');
 
 const path = require('path')
 
